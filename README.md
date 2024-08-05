@@ -195,4 +195,4 @@ docker system prune --all
 docker create network NETWORKNAME
 ```
 
-For mor cheat sheet, you can read from [Docker Labs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+For more cheat sheet, you can read from [Docker Labs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
